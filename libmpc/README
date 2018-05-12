@@ -1,0 +1,18 @@
+
+
+Código fonte da biblioteca libmpc que ainda está em desenvimento. 
+O objetivo é disponibilizar uma biblioteca C++
+para o desenvolvimento em linux embarcado de controladores preditivos.
+
+Os arquivos estão organizados nos seguintes diretórios
+
+headers: este diretório contém os headers(.h) da própria biblioteca, onde
+         devem estar descritos todos os tipos e funções de sua interface.
+sources: os códigos fonte (.c) onde estão implementadas as funções da biblioteca
+extern: bibliotecas e códigos de terceiro necessários para compilar e usar
+        a biblioteca
+obj: pasta onde a biblioteca compilada é armazenada
+
+examples: códigos de exemplo de utilização da biblioteca.
+
+
